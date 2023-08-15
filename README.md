@@ -1,12 +1,12 @@
 # Diwali_Sales_Analysis_Prediction
 # I have a dataset of Diwali Sales.
 
-==where there are having columns category like this :-  
+Where there are having columns category like this :-  
 
-*User_ID	     *Cust_name   Age	 *State		*Product_Category
-*Product_ID          *Marital_Status     *Orders
-*Gender              *Zone               *Amount	
-*Age Group	     *Occupation	 *Status
+*User_ID 	     *Cust_name   *Age 	 *State 		*Product_Category 
+*Product_ID           *Marital_Status      *Orders 
+*Gender               *Zone                *Amount 	
+*Age Group  	     *Occupation  	 *Status 
 
 I have removed null values,not required columns which were having null values.  
 I have rename some column according to our understandind and for exploring.   
@@ -34,4 +34,4 @@ We have used:
 5.adaboost,  
 6.Gardient Boost  
 
-And atlast Final Conclusion from the Data which is shown.
+And atlast Final Conclusion from the Data which is shown where which Products and from which age group from which profession the Selling was the most.
